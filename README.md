@@ -15,9 +15,12 @@ https://www.youtube.com/channel/UCOgpx7dKLi3sw_Lud36c7xw
 
 
 RPC Port: 8227
+
 P2P Port: 8127
 
 
 2 Minutes Block Time
+
 25 BTP / Block
+
 POS 1% annually
